@@ -34,6 +34,7 @@ persistent_delim=\\n
 nonprint_disp=false
 ellipsize=3
 multi_user=true
+icon_name=parcellite
 menu_key=
 history_key=<Ctrl><Alt>V
 phistory_key=
